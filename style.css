@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.flexible-area {
+    display: flex;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.mission-area h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.blue-color {
+    color: rgb(88, 88, 211);
+}
+
+.dummy-text {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.half-width h1 {
+    border-left: 5px solid rgb(255, 89, 89);
+    padding-left: 10px;
+}
+
+
+.img-size {
+    width: 60%;
+    margin-left: 35%;
+}
+
+.linked-button {
+    text-decoration: none;
+    background-color: rgb(241, 106, 65);
+    padding: 20px 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 15px;
+}
+
+.paragraph-text {
+    margin-top: 35px;
+}
+
+.mission-img-size{
+    width: 40%;
+}
+
+.mission-half-width1{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 2%;
+    background-color: rgb(228, 247, 250);
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+    
+}
+.mission-half-width2{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 2%;
+    background-color: rgb(238, 205, 248);
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+}
+.mission-half-width3{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 2%;
+    background-color: rgb(250, 237, 201);
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+}
+
+.orange-color{
+    color: rgb(0, 0, 0);
+}
+
+.tomato-color{
+    color: orange;
+}
+
+.develop-half-width img{
+    width: 400px;
+    height: 300px;
+}
+
+.develop-half-width h2{
+    font-size: 30px;
+}
+
+.develop-half-width{
+    width: 50%;
+    margin-left: 5%;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: auto;
+    margin: 10px;
+    padding: 20px;
+}
+
+#blueviolet-color{
+    color:orange;
+}
+
+small{
+    font-weight: lighter;
+}
+
+.Myself-section{
+    text-align: center;
+    background-color: rgb(162, 152, 192);
+    
+    padding: 20px 5px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.Myself-section h2{
+    font-size: 50px;
+}
